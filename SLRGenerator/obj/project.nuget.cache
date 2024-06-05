@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "i+5HCLsNNsFgAslvfNe0ACkFvDtc94nGXZqEaq2FII57CpSsjyQdpnK5mYaeyaNOnTsgD3TiOE3O7PAa5Usj9g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\79027\\Desktop\\SLRGenerator\\SLRGenerator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\79027\\.nuget\\packages\\csvhelper\\27.1.0\\csvhelper.27.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
